@@ -1,0 +1,987 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"size",
+				"SizePolicy"
+			],
+			[
+				"elec",
+				"electronics_design"
+			],
+			[
+				"flo",
+				"flowRoot"
+			],
+			[
+				"su",
+				"superflip"
+			],
+			[
+				"test_",
+				"test_moves"
+			],
+			[
+				"layot",
+				"layout_children"
+			],
+			[
+				"remov",
+				"removeChild"
+			],
+			[
+				"onclik",
+				"on_click"
+			],
+			[
+				"unco",
+				"uncollapse"
+			],
+			[
+				"scale",
+				"scale_size"
+			],
+			[
+				"tran",
+				"transform_types"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"re",
+				"requests"
+			],
+			[
+				"Pip",
+				"PipedTransformer"
+			],
+			[
+				"Tran",
+				"transformer"
+			],
+			[
+				"Typ",
+				"TypifyTransformer"
+			],
+			[
+				"jAVA",
+				"JavascriptWriter"
+			],
+			[
+				"Tras",
+				"transforming"
+			],
+			[
+				"test",
+				"test_node"
+			],
+			[
+				"trans",
+				"transformation"
+			],
+			[
+				"print",
+				"print_node"
+			],
+			[
+				"dec",
+				"decorator_list"
+			],
+			[
+				"Not",
+				"NotImplementedError"
+			],
+			[
+				"exp",
+				"expanding_size"
+			],
+			[
+				"Fi",
+				"FixedSize"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 1259,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/dexter/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/ui_lib.sftp",
+			"settings":
+			{
+				"buffer_size": 811,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"instap",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"python ",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"python vir",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"python vi",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"repl python vir",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"ss htm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/dexter/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/ui_lib.sftp",
+		"/C/nginx/conf/nginx.conf",
+		"/C/nginx/logs/error.log",
+		"/C/Users/dexter/Dropbox/Programming/svg/test.svg",
+		"/C/Users/dexter/Dropbox/Programming/svg/coffee/coffeescript.js",
+		"/C/Users/dexter/Dropbox/Programming/svg/style/gui.css",
+		"/C/Users/dexter/Dropbox/Programming/svg/index.svg",
+		"/C/Users/dexter/Dropbox/Programming/svg/script/svg.js",
+		"/C/Users/dexter/Dropbox/Programming/svg/script/gui.js",
+		"/C/Users/dexter/Dropbox/Programming/svg/script/future.js",
+		"/C/Users/dexter/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/dexter/Dropbox/Programming/svg/script/underscore.js",
+		"/C/Users/dexter/Dropbox/Programming/svg/svg.sublime-project",
+		"/home/dexter/Dropbox/Website/qr/index.html",
+		"/home/dexter/Dropbox/Website/qr",
+		"/home/dexter/Dropbox/Website/website.svg",
+		"/home/dexter/Dropbox/Website/logo-web.svg",
+		"/home/dexter/Dropbox/Website/webfontkit-20130405-184212/stylesheet.css",
+		"/home/dexter/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/dexter/.config/sublime-text-2/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/dexter/Dropbox/Website/logo.svg",
+		"/home/dexter/Dropbox/Website/webfontkit-20130405-165255/stylesheet.css",
+		"/home/dexter/Projects/svg/underscore.js",
+		"/home/dexter/Projects/svg/index.svg",
+		"/home/dexter/Dropbox/GUI/c.py",
+		"/home/dexter/Projects/scotland_yard/frontend/test.svg",
+		"/home/dexter/Projects/scotland_yard/frontend/style/gui.css",
+		"/home/dexter/Projects/scotland_yard/frontend/script/svg.js",
+		"/home/dexter/Projects/scotland_yard/frontend/script/gui.js",
+		"/home/dexter/Projects/scotland_yard/sftp-config.json",
+		"/home/dexter/Projects/scotland_yard/scotlandyard.sublime-project",
+		"/home/dexter/Projects/scotland_yard/.server.py.swp",
+		"/home/dexter/Projects/scotland_yard/frontend/script/flow.js",
+		"/home/dexter/Projects/scotland_yard/frontend/index.svg",
+		"/home/dexter/Projects/scotland_yard/frontend/script/game.js",
+		"/home/dexter/Projects/scotland_yard/frontend/script/connection.js",
+		"/home/dexter/Projects/scotland_yard/scotlandyard.sublime-workspace",
+		"/home/dexter/Projects/scotland_yard/sftp-config.jon",
+		"/home/dexter/Projects/scotland_yard/frontend/scotland_yard.svg",
+		"/home/dexter/Projects/scotland_yard/engine/game.py",
+		"/home/dexter/Projects/scotland_yard/frontend/test/menu.svg",
+		"/home/dexter/Projects/scotland_yard/frontend/test/style/menu.css",
+		"/home/dexter/Projects/scotland_yard/frontend/test/script/svg.js",
+		"/home/dexter/Projects/scotland_yard/frontend/test/script/menu.js",
+		"/home/dexter/Projects/scotland_yard/frontend/test/script/game.js",
+		"/home/dexter/Projects/scotland_yard/frontend/test/script/board.js",
+		"/home/dexter/Projects/scotland_yard/frontend/test/scotland_yard.svg",
+		"/home/dexter/Projects/scotland_yard/frontend/test/index.svg",
+		"/home/dexter/Projects/scotland_yard/server.py",
+		"/home/dexter/Projects/scotland_yard/test_client.py",
+		"/home/dexter/Projects/scotland_yard/test_server.py",
+		"/home/dexter/Projects/scotland_yard/client.py",
+		"/home/dexter/Projects/scotland_yard/scotland_yard.svg",
+		"/home/dexter/Projects/scotland_yard/test.html",
+		"/var/tmp/kdecache-dexter/krun/24790.0.server.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/writer/javascript_writer.py",
+		"/home/dexter/Projects/nieuwsbrief.html",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/transform/typify_transformer.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/tests/functions.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/ist_types.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/writer/base_writer.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/transform/semantify_transformer.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/reader.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/start.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/transform/base_transformer.py",
+		"/home/dexter/Projects/framework/Atomic/pyjamas/pygtkweb/demos/068-scribblesimple.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/stdlib/14-module.js",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/transform/__ify_transformer.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.sublime-project",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/server.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/stdlib/25-type-str.js",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/stdlib/60-string-format.js",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/stdlib/06-pyjaco.js",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/stdlib/10-builtin.js",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/stdlib/05-init.js",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/transform_test.py",
+		"/home/dexter/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/TODO",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/writer/python_writer.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/tests/attributes.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/output.js",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/tests/getattributes.py",
+		"/home/dexter/Projects/pyjaco/pyjaco/compiler/python.py",
+		"/home/dexter/Projects/pyjaco/pyjaco/compiler/javascript.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/output.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/transform/__init__.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/run.sh",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/writer/__init__.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/python_types.py",
+		"/home/dexter/.config/sublime-text-2/Packages/User/Python.sublime-settings",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/tests/test.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/test.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/base_test.py",
+		"/home/dexter/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/pyjaco.sublime-project",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/make_node_types.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/util.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/base_writer.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/node_types.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/writer.py",
+		"/home/dexter/Projects/pyjaco/pyjaco.new/ist/node_types.py",
+		"/home/dexter/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/dexter/Projects/sinterklaas.txt",
+		"/home/dexter/Projects/towel/towel/static/py-builtins.js",
+		"/home/dexter/Projects/towel/towel/components/lineEdit.py",
+		"/home/dexter/Projects/towel/start.py",
+		"/home/dexter/Projects/towel/chat.py",
+		"/home/dexter/Projects/towel/towel/style/sheet.py",
+		"/home/dexter/Projects/towel/towel/server.py",
+		"/home/dexter/Projects/towel/lol/server.py",
+		"/home/dexter/.config/sublime-text-2/Packages/User/towel.sublime-project",
+		"/home/dexter/.config/sublime-text-2/Packages/User/python-towel.sublime-build",
+		"/home/dexter/Projects/Towel/start.py",
+		"/home/dexter/Projects/Towel/Templates/.gitignore",
+		"/home/dexter/Projects/Towel/Templates/app.py~",
+		"/home/dexter/Projects/Towel/chat.py~",
+		"/home/dexter/Projects/Towel/Templates/compiler.py~"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"username",
+			"password",
+			"username",
+			"#",
+			"GUI",
+			"''",
+			"fill",
+			"100",
+			"value",
+			"key",
+			"self",
+			"var",
+			"t2",
+			"var",
+			"t2",
+			"var",
+			"id",
+			"handlebars",
+			"                <ul>",
+			"subhome",
+			"contact",
+			"subhome",
+			"gallery",
+			"subhome",
+			"portfolio",
+			"subhome",
+			"subhome1",
+			"show_crooked",
+			"slidein",
+			"wrapper",
+			"h1",
+			"moz",
+			"filter5032",
+			"multiply",
+			"filter5032",
+			"clipPath3812",
+			"clipPath3816",
+			"filter5032",
+			"200,200 ",
+			"200,0 ",
+			"clippat",
+			"browser",
+			"123",
+			"500",
+			"translate",
+			"logo",
+			"1047",
+			"clipPath3816",
+			"123",
+			"clipPath3816",
+			"clipPath3812",
+			"ding",
+			"leelaw",
+			"db",
+			"leelawdb",
+			"=\"",
+			";",
+			"1;stroke",
+			";",
+			"Work",
+			"clipPath3816",
+			"71",
+			"190",
+			"flowPara",
+			"flowRoot",
+			"font-family:Leelawadee;",
+			";",
+			"#logo  {\n\n}\n",
+			">",
+			"\">",
+			">",
+			"header",
+			"wrapper",
+			"leelawadee",
+			"edge",
+			"transform",
+			"move",
+			"self",
+			"c.superflip()\n    print c\n    c.superflip()\n    print c\n",
+			"print",
+			"right",
+			"cube",
+			"up",
+			"left",
+			"back",
+			"right",
+			"up",
+			"sl_top",
+			"left",
+			"back",
+			"up",
+			"front",
+			"[",
+			"slice()",
+			"[",
+			"print \"applying",
+			"mv_front",
+			"mv_back",
+			"print c",
+			"c",
+			"ccw",
+			"doubledouble",
+			"double",
+			"applying",
+			"lying",
+			"applying",
+			"lying",
+			", f",
+			"move\"",
+			"moves[",
+			"current_move",
+			"[c",
+			"get_attr",
+			"Down",
+			"print ",
+			"print",
+			"c",
+			"up",
+			"c.",
+			"c",
+			"mv_up",
+			"{} {} {}",
+			"*self",
+			"*",
+			"0x000000",
+			"}\n",
+			"el",
+			"white"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"flatten",
+			"join",
+			"pass  ",
+			"\\1",
+			"self.write_lines("
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sftp-config.json",
+					"settings":
+					{
+						"buffer_size": 1259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								461,
+								461
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/dexter/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/ui_lib.sftp",
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								377
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 266.0
+	},
+	"output.sftp":
+	{
+		"height": 208.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gui",
+				"style/gui.css"
+			],
+			[
+				"tes",
+				"test.svg"
+			],
+			[
+				"ind",
+				"index.svg"
+			],
+			[
+				"in",
+				"index.svg"
+			],
+			[
+				"web",
+				"website.svg"
+			],
+			[
+				"qrin",
+				"qr/index.html"
+			],
+			[
+				"qr",
+				"qr"
+			],
+			[
+				"lo",
+				"logo-web.svg"
+			],
+			[
+				"websi",
+				"website.svg"
+			],
+			[
+				"logo",
+				"logo.svg"
+			],
+			[
+				"log",
+				"logo.svg"
+			],
+			[
+				"webs",
+				"website.svg"
+			],
+			[
+				"svg",
+				"website.svg"
+			],
+			[
+				"styleshee",
+				"webfontkit-20130405-184212/stylesheet.css"
+			],
+			[
+				"websvg",
+				"website.svg"
+			],
+			[
+				"gui.css",
+				"frontend/style/gui.css"
+			],
+			[
+				"gui.js",
+				"frontend/script/gui.js"
+			],
+			[
+				"game",
+				"engine/game.py"
+			],
+			[
+				"index",
+				"frontend/index.svg"
+			],
+			[
+				"game.js",
+				"frontend/script/game.js"
+			],
+			[
+				"scotland",
+				"frontend/scotland_yard.svg"
+			],
+			[
+				"sco",
+				"frontend/scotland_yard.svg"
+			],
+			[
+				"sc",
+				"frontend/scotland_yard.svg"
+			],
+			[
+				"scsvg",
+				"frontend/scotland_yard.svg"
+			],
+			[
+				"mensv",
+				"frontend/test/menu.svg"
+			],
+			[
+				"typ",
+				"ist/transform/typify_transformer.py"
+			],
+			[
+				"func",
+				"tests/functions.py"
+			],
+			[
+				"ist",
+				"ist/ist_types.py"
+			],
+			[
+				"base_wr",
+				"ist/writer/base_writer.py"
+			],
+			[
+				"java",
+				"ist/writer/javascript_writer.py"
+			],
+			[
+				"seman",
+				"ist/transform/semantify_transformer.py"
+			],
+			[
+				"base",
+				"ist/transform/base_transformer.py"
+			],
+			[
+				"reader",
+				"ist/reader.py"
+			],
+			[
+				"start",
+				"start.py"
+			],
+			[
+				"__",
+				"ist/transform/__ify_transformer.py"
+			],
+			[
+				"server",
+				"server.py"
+			],
+			[
+				"star",
+				"start.py"
+			],
+			[
+				"serve",
+				"server.py"
+			],
+			[
+				"st",
+				"start.py"
+			],
+			[
+				"__i",
+				"ist/transform/__ify_transformer.py"
+			],
+			[
+				"tra",
+				"ist/transform/semantify_transformer.py"
+			],
+			[
+				"sta",
+				"start.py"
+			],
+			[
+				"testfun",
+				"tests/functions.py"
+			],
+			[
+				"todo",
+				"TODO"
+			],
+			[
+				"read",
+				"ist/reader.py"
+			],
+			[
+				"rea",
+				"ist/reader.py"
+			],
+			[
+				"pytr",
+				"ist/writer/python_writer.py"
+			],
+			[
+				"pyt",
+				"ist/writer/python_writer.py"
+			],
+			[
+				"tran",
+				"ist/transform/base_transformer.py"
+			],
+			[
+				"outp",
+				"output.js"
+			],
+			[
+				"batr",
+				"ist/transform/base_transformer.py"
+			],
+			[
+				"basewr",
+				"ist/writer/base_writer.py"
+			],
+			[
+				"test/",
+				"tests/attributes.py"
+			],
+			[
+				"baset",
+				"ist/transform/base_transformer.py"
+			],
+			[
+				"out",
+				"output.py"
+			],
+			[
+				"write",
+				"ist/writer/base_writer.py"
+			],
+			[
+				"tr__in",
+				"ist/transform/__init__.py"
+			],
+			[
+				"types",
+				"ist/ist_types.py"
+			],
+			[
+				"bawr",
+				"ist/writer/base_writer.py"
+			],
+			[
+				"baswe",
+				"ist/writer/base_writer.py"
+			],
+			[
+				"pywr",
+				"ist/writer/python_writer.py"
+			],
+			[
+				"py",
+				"ist/writer/python_writer.py"
+			],
+			[
+				"__if",
+				"ist/transform/__ify_transformer.py"
+			],
+			[
+				"attr",
+				"tests/attributes.py"
+			],
+			[
+				"run",
+				"run.sh"
+			],
+			[
+				"geta",
+				"tests/getattributes.py"
+			],
+			[
+				"python",
+				"ist/writer/python_writer.py"
+			],
+			[
+				"ba",
+				"ist/writer/base_writer.py"
+			],
+			[
+				"trans",
+				"ist/transform/base_transformer.py"
+			],
+			[
+				"write__",
+				"ist/writer/__init__.py"
+			],
+			[
+				"te",
+				"tests/test.py"
+			],
+			[
+				"ty",
+				"ist/python_types.py"
+			],
+			[
+				"o",
+				"output.py"
+			],
+			[
+				"test",
+				"test.py"
+			],
+			[
+				"bas",
+				"ist/writer/base_writer.py"
+			],
+			[
+				"writer",
+				"ist/writer.py"
+			],
+			[
+				"util",
+				"ist/util.py"
+			],
+			[
+				"node",
+				"node_types.py"
+			],
+			[
+				"chat",
+				"chat.py"
+			],
+			[
+				"bui",
+				"towel/static/py-builtins.js"
+			],
+			[
+				"sinter",
+				"/home/dexter/Projects/sinterklaas.txt"
+			],
+			[
+				"towelstylesheet",
+				"towel/style/sheet.py"
+			],
+			[
+				"lay",
+				"towel/components/layout.py"
+			],
+			[
+				"lolcl",
+				"lol/client/__init__.py"
+			],
+			[
+				"app",
+				"towel/components/app.py"
+			],
+			[
+				"wid",
+				"towel/templates/widget.py"
+			],
+			[
+				"ser",
+				"lol/server.py"
+			],
+			[
+				"towelstylesi",
+				"towel/style/sizePolicy.py"
+			],
+			[
+				"towelle",
+				"towel/components/lineEdit.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/dexter/Projects/scotland_yard/scotlandyard.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true
+}
